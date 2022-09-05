@@ -6,4 +6,4 @@ https://countdown-halloween.netlify.app/
 
 
 
-![halloween](https://user-images.githubusercontent.com/24884380/186803898-4a32555d-b82c-4d07-ba59-c01ca14e74fd.jpg)
+![halloween](https://user-images.githubusercontent.com/24884380/188495720-776022b1-29fe-4c1c-a086-eb711ca04506.jpg)
