@@ -1,4 +1,4 @@
-# countdown-to-halloween
+# Halloween Countdown webapp built with HTML, CSS, and Javascript
 
 
 https://countdown-halloween.netlify.app/
